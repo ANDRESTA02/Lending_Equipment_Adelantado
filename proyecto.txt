@@ -1,1 +1,2 @@
 solucion error
+solucion de errores en las vistas
